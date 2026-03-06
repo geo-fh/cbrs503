@@ -1,0 +1,7 @@
+argparse
+groq
+langchain_core
+langchain_groq
+langchain_text_splitters
+mdutils
+pathlib
