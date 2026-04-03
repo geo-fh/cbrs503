@@ -5,7 +5,7 @@ from groq import BaseModel
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_groq import ChatGroq
 
-groq_api_key = "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"
+groq_api_key = "" #API key from Teams txt file required here
 
 owasp = """
     A01:2025 - Broken Access Control
